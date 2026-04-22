@@ -23,13 +23,3 @@
 
 ---
 
----
-
-### GitHub "About" Kısmı İçin Öneriler:
-Buraya şu kısa ve etkili açıklamayı yazabilirsin:
-> **"A sleek and interactive Tic-Tac-Toe game built with React and Vite. Demonstrates state management, game logic, and responsive UI design."**
-
-### Topics (Etiketler):
-`react` `vite` `tictactoe` `javascript` `frontend-development` `game-development` `web-app`
-
-Bu taslak, projenin sadece "küçük bir oyun" değil, aynı zamanda **React State Management** ve **Algoritma** yeteneklerini gösteren teknik bir çalışma olduğunu vurgular.
